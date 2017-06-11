@@ -2,74 +2,74 @@
 This code book describes the variables, the data, and any transformations or work performed to clean up the data
 
 ## Variables
-timeBodyAccelerometerMeanX
-timeBodyAccelerometerMeanY
-timeBodyAccelerometerMeanZ
-timeBodyAccelerometerStdX
-timeBodyAccelerometerStdY
-timeBodyAccelerometerStdZ
-timeGravityAccelerometerMeanX
-timeGravityAccelerometerMeanY
-timeGravityAccelerometerMeanZ
-timeGravityAccelerometerStdX
-timeGravityAccelerometerStdY
-timeGravityAccelerometerStdZ
-timeBodyAccelerometerJerkMeanX
-timeBodyAccelerometerJerkMeanY
-timeBodyAccelerometerJerkMeanZ
-timeBodyAccelerometerJerkStdX
-timeBodyAccelerometerJerkStdY
-timeBodyAccelerometerJerkStdZ
-timeBodyGyroscopeMeanX
-timeBodyGyroscopeMeanY
-timeBodyGyroscopeMeanZ
-timeBodyGyroscopeStdX
-timeBodyGyroscopeStdY
-timeBodyGyroscopeStdZ
-timeBodyGyroscopeJerkMeanX
-timeBodyGyroscopeJerkMeanY
-timeBodyGyroscopeJerkMeanZ
-timeBodyGyroscopeJerkStdX
-timeBodyGyroscopeJerkStdY
-timeBodyGyroscopeJerkStdZ
-timeBodyAccelerometerMagnitudeMean
-timeBodyAccelerometerMagnitudeStd
-timeGravityAccelerometerMagnitudeMean
-timeGravityAccelerometerMagnitudeStd
-timeBodyAccelerometerJerkMagnitudeMean
-timeBodyAccelerometerJerkMagnitudeStd
-timeBodyGyroscopeMagnitudeMean
-timeBodyGyroscopeMagnitudeStd
-timeBodyGyroscopeJerkMagnitudeMean
-timeBodyGyroscopeJerkMagnitudeStd
-frequencyBodyAccelerometerMeanX
-frequencyBodyAccelerometerMeanY
-frequencyBodyAccelerometerMeanZ
-frequencyBodyAccelerometerStdX
-frequencyBodyAccelerometerStdY
-frequencyBodyAccelerometerStdZ
-frequencyBodyAccelerometerJerkMeanX
-frequencyBodyAccelerometerJerkMeanY
-frequencyBodyAccelerometerJerkMeanZ
-frequencyBodyAccelerometerJerkStdX
-frequencyBodyAccelerometerJerkStdY
-frequencyBodyAccelerometerJerkStdZ
-frequencyBodyGyroscopeMeanX
-frequencyBodyGyroscopeMeanY
-frequencyBodyGyroscopeMeanZ
-frequencyBodyGyroscopeStdX
-frequencyBodyGyroscopeStdY
-frequencyBodyGyroscopeStdZ
-frequencyBodyAccelerometerMagnitudeMean
-frequencyBodyAccelerometerMagnitudeStd
-frequencyBodyAccelerometerJerkMagnitudeMean
-frequencyBodyAccelerometerJerkMagnitudeStd
-frequencyBodyGyroscopeMagnitudeMean
-frequencyBodyGyroscopeMagnitudeStd
-frequencyBodyGyroscopeJerkMagnitudeMean
-frequencyBodyGyroscopeJerkMagnitudeStd
-subject
-activity
+- timeBodyAccelerometerMeanX
+- timeBodyAccelerometerMeanY
+- timeBodyAccelerometerMeanZ
+- timeBodyAccelerometerStdX
+- timeBodyAccelerometerStdY
+- timeBodyAccelerometerStdZ
+- timeGravityAccelerometerMeanX
+- timeGravityAccelerometerMeanY
+- timeGravityAccelerometerMeanZ
+- timeGravityAccelerometerStdX
+- timeGravityAccelerometerStdY
+- timeGravityAccelerometerStdZ
+- timeBodyAccelerometerJerkMeanX
+- timeBodyAccelerometerJerkMeanY
+- timeBodyAccelerometerJerkMeanZ
+- timeBodyAccelerometerJerkStdX
+- timeBodyAccelerometerJerkStdY
+- timeBodyAccelerometerJerkStdZ
+- timeBodyGyroscopeMeanX
+- timeBodyGyroscopeMeanY
+- timeBodyGyroscopeMeanZ
+- timeBodyGyroscopeStdX
+- timeBodyGyroscopeStdY
+- timeBodyGyroscopeStdZ
+- timeBodyGyroscopeJerkMeanX
+- timeBodyGyroscopeJerkMeanY
+- timeBodyGyroscopeJerkMeanZ
+- timeBodyGyroscopeJerkStdX
+- timeBodyGyroscopeJerkStdY
+- timeBodyGyroscopeJerkStdZ
+- timeBodyAccelerometerMagnitudeMean
+- timeBodyAccelerometerMagnitudeStd
+- timeGravityAccelerometerMagnitudeMean
+- timeGravityAccelerometerMagnitudeStd
+- timeBodyAccelerometerJerkMagnitudeMean
+- timeBodyAccelerometerJerkMagnitudeStd
+- timeBodyGyroscopeMagnitudeMean
+- timeBodyGyroscopeMagnitudeStd
+- timeBodyGyroscopeJerkMagnitudeMean
+- timeBodyGyroscopeJerkMagnitudeStd
+- frequencyBodyAccelerometerMeanX
+- frequencyBodyAccelerometerMeanY
+- frequencyBodyAccelerometerMeanZ
+- frequencyBodyAccelerometerStdX
+- frequencyBodyAccelerometerStdY
+- frequencyBodyAccelerometerStdZ
+- frequencyBodyAccelerometerJerkMeanX
+- frequencyBodyAccelerometerJerkMeanY
+- frequencyBodyAccelerometerJerkMeanZ
+- frequencyBodyAccelerometerJerkStdX
+- frequencyBodyAccelerometerJerkStdY
+- frequencyBodyAccelerometerJerkStdZ
+- frequencyBodyGyroscopeMeanX
+- frequencyBodyGyroscopeMeanY
+- frequencyBodyGyroscopeMeanZ
+- frequencyBodyGyroscopeStdX
+- frequencyBodyGyroscopeStdY
+- frequencyBodyGyroscopeStdZ
+- frequencyBodyAccelerometerMagnitudeMean
+- frequencyBodyAccelerometerMagnitudeStd
+- frequencyBodyAccelerometerJerkMagnitudeMean
+- frequencyBodyAccelerometerJerkMagnitudeStd
+- frequencyBodyGyroscopeMagnitudeMean
+- frequencyBodyGyroscopeMagnitudeStd
+- frequencyBodyGyroscopeJerkMagnitudeMean
+- frequencyBodyGyroscopeJerkMagnitudeStd
+- subject
+- activity
 
 ## The data
 Represents data collected from the accelerometers from the Samsung Galaxy S smartphone.
